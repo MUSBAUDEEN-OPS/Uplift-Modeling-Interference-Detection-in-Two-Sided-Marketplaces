@@ -170,7 +170,7 @@ Run all cells from top to bottom. The notebook is self-contained — it generate
 
 Full write-up and executive summary are available in the `reports/` directory:
 - [`Uplift_Modeling_Report_Ibrahim_Musbaudeen.pdf`](https://github.com/MUSBAUDEEN-OPS/Uplift-Modeling-Interference-Detection-in-Two-Sided-Marketplaces/blob/main/Project%20overview/Uplift_Modeling_Report_Ibrahim_Musbaudeen.pdf) — Complete technical report
-- [`Uplift_Modeling_Executive_Summary.pptx`](reports/Uplift_Modeling_Executive_Summary.pptx) — Slide deck for stakeholder presentation
+- [`Uplift_Modeling_Executive_Summary.pptx`](https://github.com/MUSBAUDEEN-OPS/Uplift-Modeling-Interference-Detection-in-Two-Sided-Marketplaces/blob/main/Executive%20summary/Uplift_Modeling_Executive_Summary.pptx) — Slide deck for stakeholder presentation
 
 ---
 
